@@ -1,0 +1,1 @@
+#el comando para el nodemon es npm run  [depence]
